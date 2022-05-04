@@ -1177,6 +1177,11 @@ p {
 .info__contact ul li .text span {
   color: #ffffff;
 }
+.info__content .btn{
+background-color: #FF7000;
+border-style: none;
+}
+
 
 .body-overlay {
   background-color: rgba(0, 0, 0, 0.5);
