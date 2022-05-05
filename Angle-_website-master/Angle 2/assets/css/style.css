@@ -1137,14 +1137,17 @@ p {
 .info__area.info-opened .info__area-inner {
   right: -20px;
 }
+
 .info__close-icon button {
   color: #ffffff;
   font-size: 20px;
   background-color: transparent;
 }
+
 .info__content {
   margin-bottom: 30px;
 }
+
 .info__content h4 {
   font-family: "Rubik", sans-serif;
   color: #ffffff;
@@ -1153,10 +1156,12 @@ p {
   margin-bottom: 20px;
   text-transform: capitalize;
 }
+
 .info__content p {
   color: #ffffff;
   margin-bottom: 25px;
 }
+
 .info__contact h3 {
   font-family: "Rubik", sans-serif;
   color: #ffffff;
@@ -1165,18 +1170,22 @@ p {
   margin-bottom: 20px;
   text-transform: capitalize;
 }
+
 .info__contact ul li {
   margin-bottom: 10px;
   display: flex;
 }
+
 .info__contact ul li .icon i {
   line-height: 27px;
   color: #ffffff;
   margin-right: 15px;
 }
+
 .info__contact ul li .text span {
   color: #ffffff;
 }
+
 .info__content .btn{
 background-color: #FF7000;
 border-style: none;
