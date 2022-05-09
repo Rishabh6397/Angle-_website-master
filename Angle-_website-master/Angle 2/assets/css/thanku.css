@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.thanku {
+    background-image: url("../img/bg/pattern-34.jpg");
+    /* background-color: aqua; */
+}
+
+.thanku_img {
+    border: 1px solid red;
+    margin: auto;
+}
+
+.thanku_content .col-5{
+    margin: auto;
+}
