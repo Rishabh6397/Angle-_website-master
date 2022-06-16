@@ -1015,6 +1015,22 @@ p {
   color: #fff;
 }
 
+.social-header a{
+  height: 50px;
+    width: 50px;
+    text-align: center;
+    /* background: #565ACF; */
+    line-height: 50px;
+    margin-right: 0px;
+    display: inline-block;
+    margin-bottom: 5px;
+    color: #565ACF;
+}
+.social-header a:hover {
+  background: #FF7000;
+  color: #ffffff;
+}
+
 .header-bar {
   background: #fff;
   height: 50px;
