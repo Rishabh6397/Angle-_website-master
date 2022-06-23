@@ -1,8 +1,10 @@
-* {
+*{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
-.login-main .container-fluid{
-     padding: 50px;
-}
+
+.login_main{
+    background-color: #a8c9ec;
+    height: 100vh;
+ }
