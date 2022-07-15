@@ -911,7 +911,7 @@ p {
 
 .logo-2 {
   /* background-color: #565ACF; */
-  padding: 22px 53px;
+  /* padding: 22px 53px; */
 }
 
 .main-menu ul li {
@@ -1128,6 +1128,7 @@ p {
     margin-left: 15px;
   }
 }
+
 
 .info__area-inner {
   position: fixed;
@@ -4360,7 +4361,7 @@ border-style: none;
 
   /* header area start*/
   .logo-2 {
-    padding: 22px 7px;
+    padding: 10px 30px;
   }
 
   .main-menu ul li {
